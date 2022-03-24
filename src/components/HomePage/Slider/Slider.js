@@ -44,7 +44,8 @@ const Slider = () => {
   </div>
 
 </div>
-<button type="button" class="btn banner-btn mb-4" style={{width:'152px', height:'41px',backgroundColor:'white',borderRadius:'40px',color:'black',marginLeft:'auto',marginRight:'auto',display:'block'}}>Download App</button>
+{/* <button type="button" class="btn banner-btn mb-4" style={{width:'152px', height:'41px',backgroundColor:'white',borderRadius:'40px',color:'black',marginLeft:'auto',marginRight:'auto',display:'block'}}>Download App</button> */}
+<a class="btn banner-btn" href="https://chance-app-assets.s3.ap-south-1.amazonaws.com/apk/ChanceAppBeta.apk" style={{width:'152px', height:'41px',backgroundColor:'white',borderRadius:'40px',color:'black',marginLeft:'auto',marginRight:'auto',display:'block'}} role="button">Download App</a>
 </div>
    </div>
   );
