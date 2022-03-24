@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Halant:wght@300;400;500;600;700&family=Manrope:wght@200;400;500;600;700;800&family=Raleway:wght@400;500;600;700&family=Redressed&display=swap');
+.Banner{
+    background: linear-gradient(12.1deg, #94C1E0 -1.03%, rgba(255, 255, 255, 0) 100%);
+}
+
+.toptext{
+    width: 304px;
+height: 100px;
+left: 16px;
+top: 183px;
+
+font-family: 'Manrope', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 140%;
+/* or 50px */
+
+
+color: #24232C;
+}
+
+.toptext2{
+    /* width: 165px;  */
+    /* height: 50px; */
+    /* left: 16px; */
+    /* top: 284px; */
+    font-family: 'Halant', serif;
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 36px;
+    /* line-height: 140%; */
+    color: #24232C;
+    margin-bottom: 0px;
+}
+.banner-btn:hover{
+    background-color: red;
+}
+
